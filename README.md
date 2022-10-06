@@ -16,7 +16,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davidr2998&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-## 👀 The Stalk counter
-[![](https://visitcount.itsvg.in/api?id=davidr2998&icon=5&color=9)](https://visitcount.itsvg.in)
